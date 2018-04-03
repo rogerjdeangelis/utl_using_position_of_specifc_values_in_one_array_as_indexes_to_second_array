@@ -1,0 +1,2 @@
+# utl_using_position_of_specifc_values_in_one_array_as_indexes_to_second_array
+Using the position specifc values in one array as indexes to a second array.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
